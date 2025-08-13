@@ -9,7 +9,6 @@
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tu-usuario/wayni-challenge-automation.git
-   cd wayni-challenge-automation
    ```
 2. Instala las dependencias:
    ```bash
@@ -37,4 +36,5 @@ El flujo automatizado cubre el formulario de solicitud de préstamo en https://a
 - Se implementó el patrón Page Object para mantener el código escalable y fácil de mantener
 - Los selectores se definieron de forma explícita para mayor estabilidad ante cambios menores en la UI
 - Los tests cubren tanto flujos exitosos como validaciones negativas, asegurando la calidad del formulario
+
 - El proyecto es fácilmente extensible para agregar más casos o flujos en el futuro
